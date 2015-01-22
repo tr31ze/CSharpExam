@@ -1,0 +1,5 @@
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\04.SpiralMatrix\bin\Debug\04.SpiralMatrix.exe.config
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\04.SpiralMatrix\bin\Debug\04.SpiralMatrix.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\04.SpiralMatrix\bin\Debug\04.SpiralMatrix.pdb
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\04.SpiralMatrix\obj\Debug\04.SpiralMatrix.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\04.SpiralMatrix\obj\Debug\04.SpiralMatrix.pdb

@@ -1,0 +1,5 @@
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\03.HeadPhones\bin\Debug\03.HeadPhones.exe.config
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\03.HeadPhones\bin\Debug\03.HeadPhones.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\03.HeadPhones\bin\Debug\03.HeadPhones.pdb
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\03.HeadPhones\obj\Debug\03.HeadPhones.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\03.HeadPhones\obj\Debug\03.HeadPhones.pdb

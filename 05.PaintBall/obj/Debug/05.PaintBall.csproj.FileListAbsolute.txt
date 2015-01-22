@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\05.PaintBall\bin\Debug\05.PaintBall.exe.config
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\05.PaintBall\bin\Debug\05.PaintBall.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\05.PaintBall\bin\Debug\05.PaintBall.pdb
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\05.PaintBall\obj\Debug\05.PaintBall.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\05.PaintBall\obj\Debug\05.PaintBall.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Solution2\05.PaintBall\obj\Debug\05.PaintBall.pdb
